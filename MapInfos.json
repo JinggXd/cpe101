@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":901.6,"scrollY":486},
+{"id":2,"expanded":true,"name":"Bath clear","order":2,"parentId":1,"scrollX":901.6,"scrollY":486},
+{"id":3,"expanded":true,"name":"com clear","order":3,"parentId":2,"scrollX":901.6,"scrollY":486},
+{"id":4,"expanded":true,"name":"sci room clear","order":4,"parentId":3,"scrollX":911.2,"scrollY":495.6},
+{"id":5,"expanded":true,"name":"MAP005","order":5,"parentId":4,"scrollX":901.6,"scrollY":486},
+{"id":6,"expanded":false,"name":"clear nurse","order":6,"parentId":5,"scrollX":895.2,"scrollY":512.4}
+]
